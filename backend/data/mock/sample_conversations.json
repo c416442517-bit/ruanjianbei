@@ -1,0 +1,33 @@
+[
+  {
+    "user_id": "anon_001",
+    "message": "最近考研压力好大，经常失眠到凌晨",
+    "emotion": "焦虑",
+    "intensity": 0.75,
+    "valence": "negative",
+    "risk_level": "low",
+    "need_referral": false,
+    "reply": "听起来你最近承受着不小的压力，考研确实很不容易，失眠有多久了呢？"
+  },
+  {
+    "user_id": "anon_002",
+    "message": "觉得什么都没意思，不想见人",
+    "emotion": "抑郁",
+    "intensity": 0.8,
+    "valence": "negative",
+    "risk_level": "low",
+    "need_referral": false,
+    "reply": "听得出你现在挺疲惫的，什么都不想做也是可以理解的。最近有发生什么让你特别难过的事吗？"
+  },
+  {
+    "user_id": "anon_003",
+    "message": "我真的不想活了，太痛苦了",
+    "emotion": "悲伤",
+    "intensity": 0.95,
+    "valence": "negative",
+    "risk_level": "high",
+    "need_referral": true,
+    "hit_keyword": true,
+    "reply": "你愿意把这些话说出来，说明你还在努力。你现在不安全，我想陪你一起找专业的人聊聊，好吗？全国心理援助热线 400-161-9995，24 小时都在。"
+  }
+]
